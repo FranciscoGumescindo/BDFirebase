@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052536814115",
+    "firebase_url": "https://bdfirebase-f510d.firebaseio.com",
+    "project_id": "bdfirebase-f510d",
+    "storage_bucket": "bdfirebase-f510d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052536814115:android:af8daff67c4bdeaf",
+        "android_client_info": {
+          "package_name": "com.android.gumeoficial.bdfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052536814115-md081ishsel42u5gmav8tfs1hc26csod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.gumeoficial.bdfirebase",
+            "certificate_hash": "935fad4d08229903eca1e723acf86f8761ea8053"
+          }
+        },
+        {
+          "client_id": "1052536814115-sd4m5fvbf1sesnmar6tpc00sgiaj2i4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVEUS15Rmjz2pEGF6Q_c7malT_VEzVMMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052536814115-sd4m5fvbf1sesnmar6tpc00sgiaj2i4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
